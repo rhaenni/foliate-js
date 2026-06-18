@@ -4,12 +4,12 @@
   "description": "Render e-books in the browser",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhaenni/foliate-js.git"
+    "url": "git+https://github.com/johnfactotum/foliate-js.git"
   },
   "bugs": {
-    "url": "https://github.com/rhaenni/foliate-js/issues"
+    "url": "https://github.com/johnfactotum/foliate-js/issues"
   },
-  "homepage": "https://github.com/rhaenni/foliate-js#readme",
+  "homepage": "https://github.com/johnfactotum/foliate-js#readme",
   "author": "John Factotum",
   "license": "MIT",
   "type": "module",
