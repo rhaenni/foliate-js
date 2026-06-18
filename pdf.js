@@ -80,11 +80,12 @@ const renderPage = async (page, getImageBlob) => {
         <!DOCTYPE html>
         <html lang="en">
         <meta charset="utf-8">
-        <meta name="viewport" content="width=${viewport.width}, height=${viewport.height}">
+        <meta name="viewport" content="width=${viewport.width}, height=${viewport.height}, user-scalable=no">
         <style>
         html, body {
             margin: 0;
             padding: 0;
+            touch-action: manipulation;
         }
         /*
         https://github.com/mozilla/pdf.js/commit/bd05b255fabfc313b194bfe9a17ccded4d90fb5a
